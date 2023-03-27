@@ -1,3 +1,0 @@
-This is my new file
-i want to use for learning purpose.
-This is the bug fix in development branch
